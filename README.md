@@ -39,7 +39,7 @@ Materials for the module can all be found in this repository, which consists of 
 |8     | *No lecture* | Team Project Help | | Catch-up | |
 |9     | *No lecture* | Team Project Help | | Catch-up | |
 |10    | *No lecture* | Team Project Help | | Catch-up | |
-|11    | *No lecture* | Team Project Help | | Demo | Iteration 2 <br /> Fri 10 May, 15:00 |
+|11    | *No lecture* | *No session* | | Demo | Iteration 2 <br /> Fri 10 May, 15:00 |
 
 ### Lectures
 
