@@ -58,6 +58,7 @@ Iteration 1/2 reports should include the following information:
   - Use colours and highlights to distinguish different statuses and changes, as shown in Figure 1 below.
 - What you have done in terms of testing (e.g., unit tests, integration tests, and system tests).
 - (Iteration 2 only) What you have done in terms of refactoring.
+  - You should present *concrete examples* along with your refactoring *summary* to demonstrate the quality of your refactoring.
   - When you include code fragments, you must use source code colouring, line numbers and a proper caption, as shown in Listing 1 below.
 - Your burndown chart, showing progress over all of your stories over each iteration.
 - Overall, use figures and tables with clear captions, wherever appropriate.
