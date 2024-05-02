@@ -47,7 +47,8 @@ With all this in mind, here is a suggested week-by-week list of pointers for you
 
 Iteration 1/2 reports should include the following information:
 
-- Team ID, members, and the summary of the major contributions of each member.
+- Team ID, members, and the summary of each member's major contributions.
+  - A map between each member's name and their GitLab user name, especially if you accidentally made commits under your private emails.
 - The exact command(s) needed to install and start your system.
 - The exact command(s) needed to run your tests.
 - The predefined usernames (e.g., admin1, reader1) for inspecting your system.
@@ -60,6 +61,8 @@ Iteration 1/2 reports should include the following information:
   - When you include code fragments, you must use source code colouring, line numbers and a proper caption, as shown in Listing 1 below.
 - Your burndown chart, showing progress over all of your stories over each iteration.
 - Overall, use figures and tables with clear captions, wherever appropriate.
+- (Optional) Please append your team operating agreement signed by all team members to the report as an appendix. This is not subject to assessment, but we will use this as a baseline in resolving disagreements and conflicts, if any.
+- (Optional) If you have some internal meeting notes/minutes recording attendees, issues, and task distributions during your internal meetings (not the team supervisor meetings), please append those meeting notes/minutes as an appendix to the report. If needed, you can sanitise sensitive information and keep only the important parts mentioned above.
 
 <img width="600" alt="figure-1" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/d9180dc0-9e6a-424a-b679-a67e158425ee">
 <img width="600" alt="listing-1" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/55180e37-1a7b-41ad-af7c-d7c201525707">
