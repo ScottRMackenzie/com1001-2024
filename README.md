@@ -1,5 +1,13 @@
 # COM1001 – Introduction to Software Engineering <br /> Spring Semester 2024
 
+# Advice for the Module - From Me (Student)
+The module is a year long and is split into two main group activities (as well as lectures in the first semester)
+In the first semester, you will be put into a team that you will be with for the entire module. You then will be given a "real" client...
+
+- TBA
+
+___
+# The original readME
 Welcome! This repository contains information, code examples, practical sheets, and slides to support the Spring Semester of the COM1001 module "Introduction to Software Engineering" at the University of Sheffield.
 
 Jump to:
