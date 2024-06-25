@@ -1,13 +1,32 @@
 # COM1001 – Introduction to Software Engineering <br /> Spring Semester 2024
 
-# Advice for the Module - From Me (Student)
-The module is a year long and is split into two main group activities (as well as lectures in the first semester)
-In the first semester, you will be put into a team that you will be with for the entire module. You then will be given a "real" client...
+# Advice for the Module - From Me (Student who sat the module)
+These are notes and advice that I would have like to have had before sitting the module. <br><br>
+The module is a year long and is split into two main group activities split between the semesters. You will be in the same team for both semesters.
+
+## 1. First Semester
+In the first semester, you will have lectures and assessments as well  as a coursework team project.
+For the team project, you will be put into a team that you will be with for the entire module. You then will be given a "real" client who will require you to build them some sort of application or a website with both front end and backend development.
+
+For the project in this repo, we was give the task to make a book publishing platform using Sinatra (Which is basically simplified ruby on rails and is quite easy to learn)
+
+### The Task
+The main task of the first semester is to create a requirements document which will create story cards that each contain user stories and acceptance criteria. I would recommend that you also include statistics such as a ranking of each story on how critical they are to meet the clients needs and the scale of the complexity of an implementation. (Remember that these figures are just estimates so don't have to be exactly realistic but needs to be in line with your other stories)
+
+Each story card should be split into the groups for each of the of stakeholders provided. (E.g. for a book publishing platform, the stakeholders where readers, writers and staff members.) The stakeholders should be provided in your clients requirement slides.
+
+You should have a minimum of 50 story cards all together but remember quite a lot of these can be simple like logging in, logging out, creating an account, ect.
+
+Your mark may be influenced by your layout so use some sort of grid system for the best clarity and possible marks.
+
+Finally remember that you will need to implement almost all of what you created in your story cards (3 MAX that you don't implement) so keep them rather simple and easyish to implement.
+
+## 2. Second Semester
 
 - TBA
 
 ___
-# The original readME
+# The Original README
 Welcome! This repository contains information, code examples, practical sheets, and slides to support the Spring Semester of the COM1001 module "Introduction to Software Engineering" at the University of Sheffield.
 
 Jump to:
