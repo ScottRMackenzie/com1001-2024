@@ -44,7 +44,7 @@ The main task for the semester is developing a product for the client that meets
 
 ## Additional Notes
 
-- BuddyCheck - Sometime after each submission, you will need to do a BuddyCheck. This involves you rating the performance of yourself and the other members of the team and giving a reason for that rating. <b>This is important as your individual marks will scale with your rating
+- BuddyCheck - Sometime after each submission, you will need to do a BuddyCheck. This involves you rating the performance of yourself and the other members of the team and giving a reason for that rating. <b>This is important as your individual marks will scale with your rating</b> so collaborate the team to get the best rating from other members and give good reasoning for each of your ratings, especially yourself.
 
 - Marking For Semester 2 - The marking may be inconsistent as each supervisor marks each report slightly differently and you may be compared to the performance of the other teams that the supervisor marks. So if one of the other teams all have productive members and make a better product and some members of your team were not productive, you'r marks may be reduced. <b>If you feel the marks are unfair, you can contact the lecturer responsible for the team project and discuss it with them.</b>
 
