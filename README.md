@@ -1,21 +1,28 @@
 # COM1001 – Introduction to Software Engineering <br /> Spring Semester 2024
+If you have any questions, feel free to open a discussion. Remember that I cannot assist in any way that would be considered [unfair means](https://www.sheffield.ac.uk/new-students/unfair-means).
 
-# Advice for the Module - From Me (Student who sat the module)
-These are notes and advice that I would have like to have had before sitting the module. <br><br>
+# Disclaimer
+It's important to note that the information provided may not fully represent the actual experience of taking this module. The content and delivery of the module can vary over time. You should be prepared for the possibility that the reality of the module may not align perfectly with the information presented. This is just a general overview, but the true nature of the module can only be fully understood through direct participation and engagement.
+
+These are only my opinions and are not representative of the module or the University of Sheffield.
+
+# Advice for the Module - From a student who sat the module
+These are notes and advice that I would have like to have had before sitting the module.
+
 The module is a year long and is split into two main group activities split between the semesters. You will be in the same team for both semesters.
 
 ## 1. First Semester
-In the first semester, you will have lectures and assessments as well  as a coursework team project.
+In the first semester, you will have lectures and assessments as well as a coursework team project.
 For the team project, you will be put into a team that you will be with for the entire module. You then will be given a "real" client who will require you to build them some sort of application or a website with both front end and backend development.
 
-For the project in this repo, we was give the task to make a book publishing platform using Sinatra (Which is basically simplified ruby on rails and is quite easy to learn)
+For the project in this repo, we was given the task to make a book publishing platform.
 
 ### The Task
-The main task of the first semester is to create a requirements document which will create story cards that each contain user stories and acceptance criteria. I would recommend that you also include statistics such as a ranking of each story on how critical they are to meet the clients needs and the scale of the complexity of an implementation. (Remember that these figures are just estimates so don't have to be exactly realistic but needs to be in line with your other stories)
+The main task of the first semester is to create a requirements document which will create story cards that each contain a user story and an acceptance criteria. I would recommend that you also include statistics such as a ranking of each story on how critical they are to meet the client's needs and the scale of the complexity of an implementation. (Remember that these figures are just estimates so don't have to be exactly realistic but needs to be in line with your other stories)
 
-Each story card should be split into the groups for each of the of stakeholders provided. (E.g. for a book publishing platform, the stakeholders where readers, writers and staff members.) The stakeholders should be provided in your clients requirement slides.
+Each story card should be split into the groups for each of the of stakeholders provided. (E.g. for a book publishing platform, the stakeholders where readers, writers and staff members.) The stakeholders should be provided in your client's requirement slides.
 
-You should have a minimum of 50 story cards all together but remember quite a lot of these can be simple like logging in, logging out, creating an account, ect.
+You should have an absolute minimum of 50 story cards all together but remember quite a lot of these can be simple like logging in, logging out, creating an account, ect.
 
 Your mark may be influenced by your layout so use some sort of grid system for the best clarity and possible marks.
 
@@ -23,10 +30,37 @@ Finally remember that you will need to implement almost all of what you created 
 
 ## 2. Second Semester
 
+In the second semester, you will be only developing the product for the client with the same team as the first semester. Until the easter break, you will have lectures on how to use the software stack that was chosen for you. The content for these will be released week by week, which means that you will constantly be behind what you want to implement as you will be waiting for another lecture to cover it.
+
+The software stack we used was Sinatra (Which is simple and is quite easy to learn) using the Ruby programming language that we learned in Semester 1. <br> <b>If your project is using sinatra, you can use this repo to keep ahead :)</b>
+
+You will also have weekly meeting with your supervisor who will keep track of the progress of the project. In the meeting, they want to know what you personally have implemented since the last meeting and if they are any issues with the task or the team. (Some of the supervisors disliked when team members worked together to solve the a task so each member should not repeat which task they completed)
+
+### The Task
+The main task for the semester is developing a product for the client that meets the client's needs. They are two iterations for the product and at the end of each you need to create a report on your progress. <b>You only get marked on the reports*.</b>
+
 - TBA
 
+
+## Additional Notes
+
+- BuddyCheck - Sometime after each submission, you will need to do a BuddyCheck. This involves you rating the performance of yourself and the other members of the team and giving a reason for that rating. <b>This is important as your individual marks will scale with your rating
+
+- Marking For Semester 2 - The marking may be inconsistent as each supervisor marks each report slightly differently and you may be compared to the performance of the other teams that the supervisor marks. So if one of the other teams all have productive members and make a better product and some members of your team were not productive, you'r marks may be reduced. <b>If you feel the marks are unfair, you can contact the lecturer responsible for the team project and discuss it with them.</b>
+
+- Demonstrators - Just to alleviate confusion, the demonstrators are there to offer basic support if you have an issue outside your project like with git, codio, ect.
+
+- Team project dynamics - You will be in a team of 5 or 6. In the team, not everyone is going to contribute the same amount. <br>As with all team projects, expect some members of the team to be one of these dynamics:
+    - contribute extremely little
+    - struggles to code and has quite convoluted and confusing solutions
+    - doesn't attend lectures then get confused how to implement features (May also constantly ask for help)
+    - questions each step of the development and end up not doing anything in "<i>protest</i>"
+    - constantly makes commits before testing so pushes buggy code
+    - too focused on implementing features that are not required (I did this too much at the start lol)
+
+    Hopefully, your team will have at least one member who is productive and makes major contributions to the project. <br>Remember, each team member is better at some tasks than others, <b>so their productivity may change drastically depending on their tasks between iterations.</b>
 ___
-# The Original README
+# The Original README (Second Semester Content Only)
 Welcome! This repository contains information, code examples, practical sheets, and slides to support the Spring Semester of the COM1001 module "Introduction to Software Engineering" at the University of Sheffield.
 
 Jump to:
